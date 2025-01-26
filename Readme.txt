@@ -5,7 +5,6 @@ Le site est accesible ensuite sur localhost:8000
 
 
 Pour GitHub :
-
 Pour connaitre le statut des fichiers : git status
 Pour récupérer le contenu du Git : git pull
 Pour mettre à jour le git depuis les fichiers locaux :
